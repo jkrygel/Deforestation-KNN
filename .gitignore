@@ -1,0 +1,7 @@
+# ignore compiled python files
+*.pyc
+
+# spyder project and cache folders
+.spyproject
+__pycache__
+img/__pycache__
